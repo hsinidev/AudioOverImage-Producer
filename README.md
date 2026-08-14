@@ -1,17 +1,21 @@
 <div align="center">
-# 🚀 Audiooverimage Producer
-### *Modern, High-Performance Python Solution & Developer Suite*
 
-<p align="center">
-  [![Architect](https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white)](https://hsini.dev)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hsini.dev)
-  [![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge)](https://github.com/hsinidev)
-  [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Audiooverimage%20Producer&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" style="max-width: 100%; border-radius: 12px; margin-bottom: 20px;" alt="Audiooverimage Producer Header Banner" />
+
+  <h1>🚀 Audiooverimage Producer</h1>
+  <p><em>Modern, High-Performance Python Solution & Developer Suite</em></p>
+
+  <p align="center">
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white" alt="Architect: Hsini Mohamed" /></a>
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio: hsini.dev" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge" alt="Language: Python" /></a>
+    <a href="https://github.com/hsinidev/AudioOverImage-Producer"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT" /></a>
+  </p>
 
 </div>
 
 ---
+
 ## 🌟 Executive Overview
 
 **Audiooverimage Producer** is a production-grade **Python** platform engineered for high reliability, clean architectural separation, and frictionless developer workflow.
@@ -24,76 +28,13 @@
 - **Production Ready**: Built-in error resilience, validation, and structured logging.
 
 ---
+
 ## 🏗️ Architecture & Technology Stack
 
 - **Primary Language**: `Python`
 - **Design Pattern**: Modular Clean Architecture / Domain-Driven Design
 - **License**: MIT Open Source Attribution
 
-## 📖 Deep-Dive Technical Documentation
-
-# AudioOverImage Producer
-
-
-> **Project ID**: `002`  
-> **Repository**: [https://github.com/hsinidev/AudioOverImage-Producer](https://github.com/hsinidev/AudioOverImage-Producer)
-
----
-
-## 📌 Description
-AudioOverImage Producer automates the generation of high-definition video files by embedding audio tracks onto static or animated imagery, ideal for podcast distribution and content creators.
-
----
-
-## ✨ Features
-- Seamless overlay of audio tracks onto single images or multi-image slides
-- Custom canvas resolution selection (1080p, 4K, 9:16 Shorts/Reels ratio)
-- Waveform visualizer integration with customizable colors and dynamic reactivity
-- Automated metadata tagging and video encoding optimizations
-- Batch video synthesis pipeline with hardware encoding acceleration
-
----
-
-## 🛠️ Tech Stack & Architecture
-- **Language / Framework**: Python 3.10+ / Qt (PySide6 / PyQt)
-- **Core Modules**: Modular engine architecture, async event dispatching, decoupled utility functions
-- **Target OS**: Windows, macOS, Linux
-
----
-
-## 🚀 Quick Start & Installation
-
-### Prerequisites
-- **Python**: Version 3.10 or higher installed
-- **Git**: Installed for cloning repositories
-
-### Setup Instructions
-```bash
-# 1. Clone the repository
-git clone https://github.com/hsinidev/AudioOverImage-Producer.git
-
-# 2. Navigate to project directory
-cd AudioOverImage-Producer
-
-# 3. Install required dependencies
-pip install -r requirements.txt
-
-# 4. Launch the Application
-python app.py
-```
-*(Note: If `app.py` is absent, launch with `python main.py`)*
-
----
-
-
-- **Website**: [https://hsini.dev](https://hsini.dev)
-- **Email**: [contact@hsini.dev](mailto:contact@hsini.dev)
-- **GitHub Profile**: [https://github.com/hsinidev](https://github.com/hsinidev)
-- **Project Repo**: [https://github.com/hsinidev/AudioOverImage-Producer](https://github.com/hsinidev/AudioOverImage-Producer)
-
----
-
----
 ## 🚀 Quick Start & Installation
 
 ### 1. Clone the Repository
